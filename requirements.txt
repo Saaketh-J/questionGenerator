@@ -1,3 +1,4 @@
+torch
 transformers==4.5.0
 sentencepiece==0.1.95
 textwrap3==0.9.2
