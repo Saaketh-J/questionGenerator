@@ -5,3 +5,4 @@ textwrap3==0.9.2
 nltk==3.2.5
 flashtext==2.7
 git+https://github.com/boudinfl/pke.git@dc4d5f21e0ffe64c4df93c46146d29d1c522476b
+click == 7.0
